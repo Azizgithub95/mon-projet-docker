@@ -87,7 +87,7 @@ pipeline {
 
     post {
         always {
-            echo 'Build enfin terminé.'
+            echo 'Build enfin encore terminé.'
         }
 
         success {
